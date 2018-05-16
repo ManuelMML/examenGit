@@ -18,7 +18,6 @@ public class ManuelMarraGit {
         // TODO code application logic here
         System.out.println("BIENVENIDOS AL EXAMEN DE GITHUB");
         System.out.println("Segundo commit hecho");
-        System.out.println("ULTIMO COMMIT");
     }
     
 }

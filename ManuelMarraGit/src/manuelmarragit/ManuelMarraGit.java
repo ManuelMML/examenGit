@@ -16,6 +16,7 @@ public class ManuelMarraGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("BIENVENIDOS AL EXAMEN DE GITHUB");
     }
     
 }
